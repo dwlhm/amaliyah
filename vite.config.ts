@@ -7,7 +7,7 @@ export default defineConfig({
     solidPlugin(),
     VitePWA({
       registerType: 'autoUpdate',
-      includeAssets: ['favicon.svg', 'favcion.ico', 'robots.txt', 'apple-touch-icon.png'],
+      includeAssets: ['300x300.png', 'favicon.svg', 'favcion.ico', 'robots.txt', 'apple-touch-icon.png'],
       manifest: {
         name: 'Amaliyah oleh dwlhm.space',
         short_name: 'Amaliyah.dwlhm.space',
