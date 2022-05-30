@@ -1,0 +1,63 @@
+/* Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Open+Sans:wght@400;600;700&display=swap');
+
+/* Import Tailwindcss Default Stylesheet */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: 'Open Sans', sans-serif;
+}
+
+body {
+  margin: 0;
+  background-color: #F4F6D4;
+}
+
+.arab, .latin, .terjemahan-indonesia, .ket {
+  font-family: Amiri;
+  line-height: 2.5rem;
+  padding: .5rem 0 .5rem 0;
+}
+
+.arab {
+  text-align: right;
+  line-height: 4rem;
+}
+
+.latin, .terjemahan-indonesia {
+  text-align: left;
+}
+
+.arab::before, .latin::before, .terjemahan-indonesia::before {
+  display: block;
+  font-family: Open Sans;
+  font-size: .65rem;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 1rem;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #656264;
+}
+
+.arab::before {
+  content: "teks arab";
+}
+
+.latin::before {
+  content: "teks latin";
+}
+
+.terjemahan-indonesia::before {
+  content: "teks terjemahan indonesia";
+}
+
+.terlihat {
+  display: block;
+}
+
+.tersembunyi {
+  display: none;
+}

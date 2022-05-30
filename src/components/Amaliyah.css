@@ -1,0 +1,48 @@
+#amaliyah--summary__prop {
+    background: linear-gradient(260.61deg, #F679D4 -35.98%, #F6B179 38.18%);
+    max-width: 4rem;
+}
+
+#amaliyah--shortcut button {
+    border: none;
+}
+
+.amaliyah--isi__parent {
+    list-style: none;
+}
+
+.amaliyah--isi .amaliyah--isi:last-child {
+    border-bottom: none;
+}
+
+.amaliyah--child.mode__bernomor {
+    list-style: decimal;
+    padding-left: 1.3rem;
+}
+
+.amaliyah--child.mode__radio {
+    list-style: disc;
+    padding-left: 1.3rem;
+}
+
+.amaliyah--child.mode__bernomor .ket,
+.amaliyah--child.mode__radio .ket {
+    text-align: left;
+}
+
+li.amaliyah--child {
+    font-weight: bold;
+    font-weight: 600;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.amaliyah--isi__parent::after {
+    content: "۞۞۞";
+    margin: 3rem auto 1rem;
+    text-align: center;
+    width: 100%;
+    display: block;
+    font-size: 1rem;
+}
