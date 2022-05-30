@@ -10,8 +10,13 @@ export default defineConfig({
       includeAssets: ['favicon.svg', 'favcion.ico', 'robots.txt', 'apple-touch-icon.png'],
       manifest: {
         name: 'Amaliyah oleh dwlhm.space',
+        short_name: 'Amaliyah.dwlhm.space',
         description: 'Panduan Amaliyah untuk ikhwan/akhwat TQN Pesantren Suryalaya Sirnarasa',
         theme_color: '#F6B179',
+        background_color: '#F4F6D4',
+        scope: '/',
+        start_url: '/',
+        display: 'standalone',
         icons: [
           {
             src: 'pwa-192x192.png',

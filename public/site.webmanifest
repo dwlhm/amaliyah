@@ -1,6 +1,7 @@
 {
     "name": "Amaliyah oleh dwlhm.space",
-    "short_name": "Amaliyah",
+    "short_name": "Amaliyah.dwlhm.space",
+    "description": "Panduan Amaliyah untuk ikhwan/akhwat TQN Pesantren Suryalaya Sirnarasa",
     "start_url": "/",
     "icons": [
         {
@@ -20,7 +21,8 @@
             "purpose": "any maskable"
         }
     ],
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
+    "theme_color": "#F6B179",
+    "background_color": "#F4F6D4",
+    "scope": "/",
     "display": "standalone"
 }
