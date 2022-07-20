@@ -46,7 +46,7 @@ const App: Component = () => {
           <Route path='/amaliyah/:id' element={<Amaliyah />} />
           <Route path='/kategori/:id' element={<Category />} />
           <Route path="/tersimpan" element={<Tersimpan />} />
-          <Route path='*' element={<p class='text-center m-5 text-xl'><span class='font-bold'>404</span> / <span class='italic line-through'>not found</span></p>} />
+          {/* <Route path='*' element={<p class='text-center m-5 text-xl'><span class='font-bold'>404</span> / <span class='italic line-through'>not found</span></p>} /> */}
         </Routes>
       </div>
       <footer class='flex mt-10 mb-8 items-center justify-center'>
