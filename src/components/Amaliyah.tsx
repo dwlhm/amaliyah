@@ -11,102 +11,53 @@ import { createSignal } from "solid-js"
 import "./Amaliyah.css"
 import { Pengaturan } from "../views/Pengaturan"
 
-export default(props: any) => {
+export const ReadAmaliyah = (props: any) => {
 
-    const getPengaturan = localStorage.getItem("pengaturan")
-    const initPengaturan: Pengaturan = JSON.parse(getPengaturan || "")
-
-    const [ pengaturan, setPengaturan ] = createSignal(initPengaturan)
-
-    createEffect(() => {
-        setPengaturan(JSON.parse(localStorage.getItem("pengaturan") || ""))
-    })
-
-    const data = JSON.parse(props.data)
-
-    return(
-        <>
-            <div class="my-5">
-                <div class="grid grid-cols-5">
-                    <div class="col-span-4">
-                        <div class="pb-10">
-                            <h1 class="text-2xl leading-relaxed font-bold">{data.judul}</h1>
-                            <h3 class="text-sm">{data?.deskripsi}</h3>
-                        </div>
-                        <NavButtons 
-                            class="italic text-sm inline-block mr-2"
-                            to={`/category/${data.topik.toLowerCase().replace(" ", "-")}`}
-                            >
-                            {`#${data.topik.replace(" ", "-")}`}
-                        </NavButtons>
-                    </div>
-                    <div class="flex items-right justify-end">
-                        <div id="amaliyah--summary__prop" class="h-full w-full rounded">
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <ul class="amaliyah--isi__parent">
-                <For each={data.isi}>{(props: IsiAmaliyah) => (
-                    <BasicAmaliyah data={props} pengaturan={pengaturan()} mode={props.tipe} />
-                )}</For>
-            </ul>
-        </>
-    )
-} 
-
-const BasicAmaliyah = (props: any) => {
-    
     const data: IsiAmaliyah = props.data
     const rules: Pengaturan = props.pengaturan
     const mode: string = props.mode || "isi"
-    /* Notes for mode:
-        - Currently there is 3 mode:
-            1. isi / 2. bernomor / 3. radio
-    */
 
     return(
         <li class={`amaliyah--isi py-3 mx-2 border-b-2 border-gray-700`}>
             <ul class={`amaliyah--child mode__${mode}`}>
                 <p class="text-md font-semibold leading-loose">{data.judul}</p>
+
                 <For each={data.keterangan?.awal}>{(ket: string) => <p class="ket text-center text-lg leading-loose">{ket}</p>}</For>
                 {
                     data.isi
-                        ?   <>
-                            <For each={data.isi}>{(props: IsiAmaliyah) => <>
-                                <BasicAmaliyah data={props} pengaturan={rules} mode={props.tipe} />
-                            </>}</For>
-                        </> 
+                        ?   <For each={data.isi}>{(props: IsiAmaliyah) => ( 
+                                <ReadAmaliyah data={props} pengaturan={rules} mode={props.tipe} />
+                            )}</For> 
                         :   <div>
+                    
                                 {
-                                    data.arab == undefined 
-                                        ? ""
-                                        :   <p
-                                                class={`text-right arab text-lg leading-loose ${rules.teksArab.visibilitas}`}
-                                                style={{"font-size": `${rules.teksArab.fontSize}px`}}
-                                                >
-                                                {data.arab}
-                                            </p>
+                                    data.arab !== undefined && rules.teksArab.visibilitas == "terlihat"
+                                    ? <p
+                                        class={`text-right arab text-lg leading-loose terlihat`}
+                                        style={{"font-size": `${rules.teksArab.fontSize}px`}}
+                                        >{data.arab}</p>
+                                    : ""
                                 }
+
                                 {
-                                    data.latin == undefined 
-                                        ? ""
-                                        :   <p
-                                                class={`latin text-lg ${rules.teksLatin.visibilitas}`}
-                                                style={{"font-size": `${rules.teksLatin.fontSize}px`}}
-                                            >{data.latin}</p>
+                                    data.latin !== undefined && rules.teksLatin.visibilitas == "terlihat"
+                                    ? <p
+                                        class={`latin text-lg terlihat`}
+                                        style={{"font-size": `${rules.teksLatin.fontSize}px`}}
+                                        >{data.latin}</p>
+                                    : null
                                 }
+                                
                                 {
-                                    data.indo == undefined 
-                                        ? ""
-                                        :   <p 
-                                                class={`terjemahan-indonesia text-lg ${rules.teksTerjemahanIndonesia.visibilitas}`}
-                                                style={{"font-size": `${rules.teksTerjemahanIndonesia.fontSize}px`}}
-                                            >{data.indo}</p>
+                                    data.indo !== undefined && rules.teksTerjemahanIndonesia.visibilitas == "terlihat"
+                                    ? <p 
+                                        class={`terjemahan-indonesia text-lg terlihat`}
+                                        style={{"font-size": `${rules.teksTerjemahanIndonesia.fontSize}px`}}
+                                        >{data.indo}</p>
+                                    : null
                                 }
                             </div>
-                }
-                <For each={data.keterangan?.akhir}>{(ket: string) => <p class="ket text-center text-lg leading-loose">{ket}</p>}</For>
+                }   
             </ul>
         </li>
     )
@@ -119,7 +70,7 @@ export const AmaliyahShortcut = (props: any) => {
     const [ linkShared, setLinkShared ] = createSignal("")
     const [ copyLabel, setCopyLabel ] = createSignal("copy")
 
-    const data = JSON.parse(props.data)
+    const data = props.data
 
     const saveIt = () => {
         if (tersimpan()) setHapusTersimpan(props.id)

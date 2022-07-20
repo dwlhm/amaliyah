@@ -1,3 +1,15 @@
+export const GetAmaliyah = async (id: string) => {
+
+    let api = await fetch(`/amaliyah/${id}.json`)
+        .then(res => res.json())
+        .catch(err => {
+            return {msg: "error", body: "Masalah koneksi server"}
+        })
+
+    return api
+    
+}
+
 export const GetPengumuman = async () => {
     let saveToLocal: any[] = []
     const api = await (await (fetch(`${process.env.API_PENGUMUMAN_URL}`))).json()
@@ -17,32 +29,7 @@ export const GetPengumuman = async () => {
 
 }
 
-export const GetSummary =  async () => {
-    const api = await (fetch(`https://amaliyah-workers.dwlhm0.workers.dev/summary`))
-        .then(res => res.json())
-        .catch(err => {
-            console.log(err)
-            return {msg: "error", body: "Masalah koneksi server"}
-        })
 
-    
-    return api
-}
-
-export const GetAmaliyah = async (id: string) => {
-    let api = await fetch(`https://amaliyah-workers.dwlhm0.workers.dev/amaliyah/${id}`)
-        .then(res => res.json())
-        .catch(err => {
-            return {msg: "error", body: "Masalah koneksi server"}
-        })
-    
-    if (api.msg == "error" || api.body == "nil") {
-        let local = JSON.parse(localStorage.getItem(id) || "{}")
-        if (Object.keys(local).length > 0) api = {"msg": "sucess", "body": local}
-    }
-
-    return api
-}
 
 export const GetCategories = async (id: string) => {
     let api = await fetch(`https://amaliyah-workers.dwlhm0.workers.dev/category/${id}`)

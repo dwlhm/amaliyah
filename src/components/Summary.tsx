@@ -7,24 +7,9 @@ import "./Summary.css"
 
 export default (props: any) => {
 
-    if (props.data?.body == "nil") return(
-        <div class="flex items-center justify-center p-5 mt-10">
-            <ErrorIcon />
-            <p class="ml-2 text-md font-semibold text-red-600">Tidak ada Amaliyah Tersedia</p>
-        </div>
-    )
-
-    if (props.data?.msg == "error") return(
-        <div class="flex items-center justify-center p-5 mt-10">
-            <ErrorIcon />
-            <p class="ml-2 text-md font-semibold text-red-600">{props.data?.body}</p>
-        </div>
-    )
-
-return(
-<>
-    <div>
-        <For each={props.data?.body}>{
+    if (props.data.length > 0) return(
+        <>
+            <For each={props.data}>{
             (props: any) => (
                 props.topic == "undefined" ? "" : <>
                     <div class="summary-amaliyah--title flex items-center my-2 mt-5 px-2 py-3 text-base font-bold">
@@ -58,7 +43,15 @@ return(
                 </>
             )
         }</For>
-    </div>
-</>
-)
+        </>
+    )
+
+    return(
+        <>
+            <div class="flex items-center justify-center p-5 mt-10">
+                <ErrorIcon />
+                <p class="ml-2 text-md font-semibold text-red-600">Tidak ada Amaliyah Tersedia</p>
+            </div>
+        </>
+    )
 }

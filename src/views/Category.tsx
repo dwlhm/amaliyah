@@ -8,8 +8,6 @@ import ErrorIcon from "../icons/ErrorIcon"
 export default () => {
     const params = useParams()
 
-    console.log(params.id)
-
     const [ categories ] = createResource(params.id, GetCategories)
 
     return(<>
