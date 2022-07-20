@@ -1,0 +1,153 @@
+{
+    "judul": "Zikir",
+    "deskripsi": "Panduan zikir setelah sholat",
+    "topik": "Amaliyah Robithoh Murid",
+    "tags": ["amaliyah harian", "zikir"],
+    "isi": [
+        {
+            "tipe": "isi",
+            "isi": [
+                {
+                    "tipe": "isi",
+                    "arab": ["اِلٰى حَضْرَةِ النَّبِيِّ الْمُصْطَفٰى مُحَمَّدٍ صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ وَعَلٰى اٰلِهٖ وَاَصْحَابِهٖ وَاَزْوَاجِهٖ وَذُرِّيّٰتِهٖ وَاَهْلِ بَيْتِهٖ وَلِمَنْ دَخَلَ فِي بَيْتِهٖ اَجْمَعِيْنَ كُلُّ شَيْئ ٍ لِلّٰهِ لَهُمُ الْفَاتِحَةُ"],
+                    "latin": ["Ilaa hadrotin nabiyyil musthofaa Muhammadin Shollalloohu ‘Alaihi Wa sallam wa ‘alaa  Aalihii wa Ashhabihii wa Azwaajihii wa Dzurriyyaatihii wa Ahli Baitihii wa Liman dakhola fii Baitihii ajma ‘iin, kullu syai'in lillahi lahum, al Faatihah"],
+                    "indo": ["Yaa Alloh semoga disampaikan pahala bacaan fatihah ini kehadapan Nabi Besar Muhammad Saw dan kepada keluarga, sahabat, istri, anak cucu dan ahli baitnya. Segala sesuatu hanya milik Alloh, untuk mereka (kami) hadiahkan, Al-Faatihah"]
+                },
+                {
+                    "tipe": "isi",
+                    "arab": ["أَسْتَغْفِرُ اللّٰهَ الْغَفُوْرَ الرَّحِيْمَ  (x3)"],
+                    "latin": ["Astaghfirulloohal Ghofuuror Rohiim (3x)"],
+                    "indo": ["Aku memohon ampunan kepada Alloh yang Maha Pengampun dan Maha Penyayang."]
+                },
+                {
+                    "tipe": "isi",
+                    "arab": ["اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ وَعَلٰى اٰلِهٖ وَصَحْبِهٖ وَسَلِّمْ (x3)"],
+                    "latin": ["Alloohumma sholli ‘alaa Sayyidinaa Muhammadiw wa ‘alaa aalihii Wa shohbihii wa sallim (3x)"],
+                    "indo": ["Yaa Alloh limpahkanlah rahmat-Mu kepada sayyidina Muhammad Saw dan kepada keluarga, dan para sahabatnya, serta limpahkanlah keselamatan baginya."]
+                },
+                {
+                    "tipe": "isi",
+                    "arab": ["إِلٰهِي أَنْتَ مَقْصُوْدِيْ وَرِضَاكَ مَطْلُوْبِي أَعْطِنِي مَحَبَّتَكَ وَمَعْرِفَتَكَ"],
+                    "latin": ["Ilaahii Anta maqshuudii wa ridhoo-Ka mathluubii, a’thinii Mahabbata-Ka wa Ma’rifata-Ka"],
+                    "indo": ["Tuhanku Engkaulah yang menjadi maksudku dan keridhoan-Mu yang menjadi pintaku. Berikanlah kepadaku kecintaan dan ma’rifat kepada-Mu."]
+                },
+                {
+                    "tipe": "isi",
+                    "arab": ["لَا إِلٰهَ إِلَّا اللّٰهُ  (x3)"],
+                    "latin": ["Laa Ilaaha Illallooh (3x)"],
+                    "indo": ["Tiada Tuhan selain Alloh"],
+                    "keterangan": {
+                        "akhir": [
+                            "Kemudian dilanjutkan dengan Zikir sekurang-kurangnya 165x",
+                            "Lebih banyak lebih baik dan Zikir diakhiri pada hitungan bilangan ganjil."
+                        ]
+                    }
+                },
+                {
+                    "tipe": "isi",
+                    "arab": ["سَيِّدُنَا مُحَمَّدٌ رَسُوْلُ اللّٰهِ صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ"],
+                    "latin": ["Sayyidunaa Muhammadur Rosuululloohi Shollalloohu ‘Alaihi wa Sallam"],
+                    "indo": ["Sayyidina Muhammad Rasulnya Alloh, semoga Alloh melimpahkan Rahmat dan keselamatan atas beliau."],
+                    "keterangan": {
+                        "awal": [
+                            "Adapun penutup Zikir adalah dengan membaca: "
+                        ]
+                    }
+                },
+                {
+                    "tipe": "isi",
+                    "arab": [
+                        "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+                        "اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ وَعَلٰى أٰلِ سَيِّدِنَا مُحَمَّدٍ صَلَاةً تُنْجِيْنَا بِهَا مِنْ جَمِيْعِ الْأَهْوَالِ وَالْأٰفَاتِ وَتَقْضِي لَنَا بِهَا جَمِيْعَ الْحَاجَاتِ وَتُطَهِّرُنَا بِهَا مِنْ جَمِيْعِ السَّيِّأٰتِ وَتَرْفَعُنَا بِهَا عِنْدَكَ أَعْلَى الدَّرَجَاتِ وَتُبَلِّغُنَا بِهَا أَقْصَى الْغَايَاتِ مِنْ جَمِيْعِ الْـخَيْرَاتِ فِي الْحَيَاةِ وَبَعْدَ الْمَمَاتِ، إِنَّ الَّذِينَ يُبَايِعُوْنَكَ إِنَّمَا يُبَايِعُوْنَ اللّٰهَ يَدُ اللّٰهِ فَوْقَ أَيْدِيْهِمْ فَمَنْ نَكَثَ فَإِنَّمَا يَنْكُثُ عَلٰى نَفْسِهٖ وَمَنْ اَوْفٰى بِمَا عَاهَد عَلَيْهُ اللّٰهُ فَسَيُؤْتِيْهِ أَجْرًا عَظِيْمًا ."
+                    ],
+                    "latin": [
+                        "Bismillaahirrohmaanirrohiim. Allohumma sholli ‘alaa Sayyidinaa Muhammad wa ‘alaa Aali Sayyidinaa Muhammad, sholaatan tunjiinaa bihaa min jamii’il ahwaali wal aafaat, wa taqdhiilanaa bihaa jamii’al haajaat, wa tuthohhirunaa bihaa min jamii’is sayyi’aat, wa tarfa’unaa bihaa ‘indaka a’lad darojaat, wa tuballighunaa bihaa aqshol ghooyaat min jamii’il khoiroot fil hayaati wa ba’dal mamaat. Innal ladziina yubaayi‘uunaka innamaa yubaayi ‘uunalloha, yadulloohi fauqo aidiihim, faman nakatsa fa’innamaa yankutsu ‘alaa nafsih, wa man aufaa bimaa ‘aahada ‘alaihullooha fasayu’tiihi ajron ‘azhiimaa."
+                    ],
+                    "indo": [
+                        "Dengan menyebut nama Alloh yang Maha Pengasih lagi Maha Penyayang. Yaa Alloh limpahkan rahmat-Mu kepada Nabi Muhammad Saw dan keluarganya dengan rahmat yang akan menyelamatkan kami dari semua marabahaya dan mengabulkan bagi kami semua keperluan kami, dan membersihkan kami dari segala kesalahan, dan mengangkat kami ke derajat yan tinggi serta menyampaikan kami ke puncak sejak masih hidup sampai meninggal dunia. Sesungguhnya orang-orang yang berjanji setia kepada-Mu, itu sebenarnya mereka berjanji kepada Alloh. ‘Tangan Alloh’ di atas tangan-tangan (kekuasaan) mereka, maka barangsiapa melanggar janjinya, niscaya akibat dari melanggar janji itu akan menimpa dirinya sendiri, dan barangsiapa yang menepati janjinya kepada Alloh maka Alloh akan memberinya pahala yang besar."
+                    ],
+                    "keterangan": {
+                        "awal": ["Kemudian berdoa dengan doa berikut ini: "],
+                        "akhir": ["Do’a ini dapat ditambah dengan do’a-do’a lainnya yang dikehendaki."]
+                    }
+                },
+                {
+                    "tipe": "isi",
+                    "arab": ["اِلٰى حَضْرَةِ النَّبِيِّ الْمُصْطَفٰى مُحَمَّدٍ صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ وَعَلٰى اٰلِهٖ وَاَصْحَابِهٖ وَاَزْوَاجِهٖ وَذُرِّيّٰتِهٖ وَاَهْلِ بَيْتِهٖ وَلِمَنْ دَخَلَ فِي بَيْتِهٖ اَجْمَعِيْنَ كُلُّ شَيْئٍ لِلّٰهِ لَهُمُ الْفَاتِحَةُ"],
+                    "latin": ["Ilaa hadrotin nabiyyil musthofaa Muhammadin Shollalloohu ‘Alaihi Wa sallam wa ‘alaa  Aalihii wa Ashhabihii wa Azwaajihii wa Dzurriyyaatihii wa Ahli Baitihii wa Liman dakhola fii Baitihii ajma ‘iin, kullu syai'in lillahi lahum, al Faatihah"],
+                    "indo": ["Semoga disampaikan kepada junjungan kami Nabi Muhammad Saw, semoga Alloh melimpahkan rahmat dan keselamatan kepanya, kepada keluarganya, para sahabatnya, istrinya, keturunannya serta ahli baitnya. Segala sesuatu hanya milik Alloh, untuk mereka (kami) hadiahkan, Alfaatihah"],
+                    "keterangan": {
+                        "awal": ["(Kemudian dilanjutkan dengan Zikir berikut ini)"]
+                    }
+                },
+                {
+                    "tipe": "isi",
+                    "arab": ["ثُمَّ اِلٰى أَهْلِ السِّلْسِلَةِ الْقَادِرِيَّةِ النَّقْشَبَنْدِيَّةِ مَعْهَدِ سُرْيَالَيَا وَجَمِيْعِ أَهْلِ الطُّرُقِ خُصُوْصًا اِلٰى حَضْرَةِ سُلْطَانِ الْأَوْلِيَاءِ غَوْثِ الْأَعْظَمِ قُطْبِ الْعَالَمِيْنَ السَّيِّدِ الشَّيْخِ عَبْدِ الْقَادِرِ الْجَيْلَانِي قَدَّسَ اللّٰهُ سِرَّهُ وَالسَّيِّدِ الشَّيْخِ أبِي الْقَاسِمِ جُنَيْدِ الْبَغْدَادِي وَالسَّيِّدِ الشَّيْخِ أَحْمَدَ خَاطِبِ ابْنِ عَبْدِ الْغَفَّارِ السَّمْبَاسِيِّ وَالسَّيِّدِ الشَّيْخِ طَلْحَةَ كَالِي سَافُو السِرْبَوْنِي وَالسَّيِّدِ الشَّيْخِ عَبْدِ اللّٰهِ مُبَارَكِ بْنِ نُوْرِ مُحَمَّدٍ وَشَيْخِنَا الْمُكَرَّمِ الشَّيْخِ أَحْمَدَ صَاحِبِ الْوَفٰى تَاجِ الْعَارِفِيْنَ وَشَيْخِنَا الْمُكَرَّمِ الشَّيْخِ مُحَمَّدْ عَبْدُ الْغَوْثِ سَيْفُ اللّٰهِ مَسْلُوْلُ قَدَّسَ اللّٰهُ سِرَّهمُ وَأُصُوْلِهِمْ وَفُرُوْعِهِمْ وَاَهْلِ سِلْسِلَتِهِمْ وَالْأۤخِذِيْنَ عَنْهُمْ كُلُّ شَيْئ ٍ لِلّٰهِ لَهُمُ الْفَاتِحَةُ"],
+                    "latin": ["Tsumma ilaa Arwahi Ahli Silsilatil Qoodiriyyah Naqsyabandiyyah Ma'had Suryalaya wa jamii’i ahlith thuruqi khushuushon ilaa Hadroti shulthoonil auliyaa’I ghoutsil a’zhom quthbil ‘aalamiin, As Sayyidisy Syaikh Muhyiddin ‘Abdul Qoodir Al Jailaani Qoddasalloohu Sirroh wa Sayyidisy Syaikh Abil Qoosim Junaidil Baghdaadiy Wa Sayyidisy Syaikh Ahmad Khootib Syambas ibni ‘Abdil Ghoffaar Wa Sayyidisy  Syaikh Tholhah Kalisapu Cirebon wa hadhroti Syaikh ‘Abdulloh Mubarook bin Nur Muhammad wa syaikhinal mukarrom Syaikh Ahmad Shoohibul Wafaa Taajul ‘Aarifin wa syaikhinal mukarrom Syaikh Muhammad Abdul Gaos Saefulloh Maslul Qaddasalloohu Sirrohum wa ushuulihim Wa furuu‘ihim wa ahli silsilaatihim wal aakhidziina ‘anhum, kullu syai'in lillahi lahum, al Faatihah"],
+                    "indo": ["Semoga Engkau sampaikan kepada para silsilah Thoriqot Qoodiriyyah Naqsabandiyyah Pondok Pesantren Suryalaya dan kepada semua ahli thoriqot terutama kepada pimpinan para wali penolong agama Alloh Syaikh Abdul Qodir al Jailani. Semoga Alloh melimpahkan kesucian kepada maqomnya dan kepada Syaikh Abdul Qosim Junaidi al Baghdadi serta Syaikh Ahmad Khotib as Syambasyi Abdil Ghoffar dan Syaikh Tholhah bin Tholabuddin dan Syaikh Abdulloh Mubarok bin Nur Muhammad serta Syaikh Ahmad Shohibul Wafa Tajul’Arifin, dan Syaikh Muhammad Abdul Gaos Saefulloh Maslul Qaddasalloohu Sirrohum semoga Alloh melimpahkan keridhoan kepada mereka dan kepada leluhurnya, kepada anak turunnya dan ahli keluarga silsilah serta semua yang mengambil berkah dari mereka. Segala sesuatu hanya milik Alloh, untuk mereka (kami) hadiahkan, Alfaatihah"]
+                },
+                {
+                    "tipe": "isi",
+                    "arab": ["ثُمَّ اِلٰى أَرْوَاحِ أٰبَائِنَا وَأُمَّهَاتِنَا وَلِكَافَّةِ الْمُسْلِمِيْنَ وَالْمُسْلِمَاتِ وَالْمُؤْمِنِيْنَ وَالْمُؤْمِنَاتِ الْأَحْيَاءِ مِنْهُمْ وَالْأَمْوَاتِ كُلُّ شَيْئ ٍ لِلّٰهِ لَهُمُ الْفَاتِحَةُ"],
+                    "latin": ["Tsumma ilaa arwaahi Aaba’inaa wa Ummahaatinaa wa likaaffatil Muslimiina wal Muslimaat wal Mu’miniina wal Mu’minaat al Ahyaa’i minhum wal amwaat, kullu syai'in lillaahi lahum, "],
+                    "indo": ["Selanjutnya semoga Alloh menyampaikan kepada bapak-bapak kami dan ibu-ibu kami dan kepada semua muslimin dan muslimat, mukminin dan mukminat, yang masih hidup maupun yang telah meninggal dunia. Segala sesuatu hanya milik Alloh, untuk mereka (kami) hadiahkan, Al-faatihah"]
+                },
+                {
+                    "tipe": "isi",
+                    "arab": ["اَسْتَغْفِرُ اللّٰهَ رَبِّي مِنْ كُلِّ ذَنْبٍ وَاَتُوْبُ اِلَيْهِ (x3)"],
+                    "latin": ["Astaghfirullooha Robbii min kulli dzanbin wa atuubu ilaihi (3x)"],
+                    "indo": ["Aku memohon ampunan kepada Alloh Tuhanku dari segala dosa dan aku bertaubat kepada-Nya."]
+                },
+                {
+                    "tipe": "isi",
+                    "arab": ["اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ وَعَلٰى أٰلِ سَيِّدِنَا مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى سَيِّدِنَا اِبْرَاهِيْمَ وَعَلٰى أٰلِ اِبْرَاهِيْمَ وَبَارِكْ عَلٰى سَيِّدِنَا مُحَمَّدٍ وَعَلٰى أٰلِ سَيِّدِنَا مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى سَيِّدِنَا اِبْرَاهِيْمَ وَعَلٰى أٰلِ اِبْرَاهِيْمَ فِي الْعَالَمِيْنَ إِنَّكَ حَمِيْدٌ مَجِيْدٌ"],
+                    "latin": ["Alloohumma sholli ‘alaa sayyidinaa Muhammad wa ‘alaa Aali Sayyidinaa Muhammad,  kamaa shollaita ‘alaa sayyidinaa Ibroohim wa ‘alaa Aali sayyidinaa Ibroohim, wa baarik ‘alaa sayyidinaa Muhammad Wa ‘alaa Aali sayyidinaa Muhammad, kamaa baarokta ‘alaa sayyidinaa Ibroohim wa ‘alaa Aali sayyidinaa Ibroohim, fil ‘aalamiina innaka Hamiidum Majiid."],
+                    "indo": ["Yaa Alloh Semoga Engkau melimpahkan rahmat kepada Nabi Muhammad dan keluarganya seperti halnya Engkau melimpahkan rahmat kepada Nabi Ibrahim dan keluarganya dan semoga Engkau melimpahkan barokah kepada Nabi Muhammad dan keluarganya seperti halnya Engkau melimpahkan barokah kepada Nabi Ibrahim dan keluarganya di seluruh alam. Engkau Maha Terpuji lagi Maha Agung."]
+                },
+                {
+                    "tipe": "isi",
+                    "arab": ["إِلٰهِي أَنْتَ مَقْصُوْدِيْ وَرِضَاكَ مَطْلُوْبِي أَعْطِنِي مَحَبَّتَكَ وَمَعْرِفَتَكَ"],
+                    "latin": ["Ilaahii Anta maqshuudii wa ridhoo-Ka mathluubii, a’thinii Mahabbata-Ka wa Ma’rifata-Ka"],
+                    "indo": ["Tuhanku Engkaulah yang menjadi maksudku dan keridhoan-Mu yang menjadi pintaku. Berikanlah kepadaku kecintaan dan ma’rifat kepada-Mu."],
+                    "keterangan": {
+                        "awal": ["Kemudian membaca :"]
+                    }
+                },
+                {
+                    "tipe": "radio",
+                    "judul": "Selanjutnya TAWAJJUH dengan cara: ",
+                    "isi": [
+                        {
+                            "tipe": "isi",
+                            "judul": "Kedua mata terpejam"
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bibir dirapatkan"
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Lidah dilipatkan ke langit-langit"
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Gigi dirapatkan tidak bergerak"
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Menahan nafas sekuatnya"
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Kepala ditundukkan ke sebelah kiri"
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Hati tanpa berhenti ber- Dzikir Khofi sekuatnya"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

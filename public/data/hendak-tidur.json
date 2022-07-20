@@ -1,0 +1,220 @@
+{
+    "judul": "Hendak Tidur",
+    "deskripsi": "Panduan Amaliyah saat Hendak Tidur",
+    "topik": "Sholat",
+    "tags": ["amaliyah harian", "sholat"],
+    "isi": [
+        {
+            "tipe": "bernomor",
+            "isi": [
+                {
+                    "tipe": "radio",
+                    "judul": "Shalat Syukril Wudhu",
+                    "isi": [
+                        {
+                            "tipe": "isi",
+                            "judul": "Niat Shalat",
+                            "arab": ["اُصَلِّي سُنَّةً لِشُكْرِ الْوُضُوْءِ رَكْعَتَيْنِ لِلّٰهِ تَعَالٰى"],
+                            "latin": ["Ushollii sunnatan lisyukril wudluu'i rok'ataini lillaahi Ta'alaa"],
+                            "indo": ["Saya niat sholat sunnah Syukrul Wudhu' dua roka'at karena Alloh Ta'ala."]
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Jumlah Raka'at",
+                            "keterangan": {
+                                "awal": [
+                                    "2 Raka'at"
+                                ]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Shalat",
+                            "keterangan": {
+                                "awal": [
+                                    "Bebas"
+                                ]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Waktu Pelaksanaan",
+                            "keterangan": {
+                                "awal": ["Setiap habis wudlu selagi masih  basah"]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tipe": "radio",
+                    "judul": "Shalat Sunnah Taubat",
+                    "isi": [
+                        {
+                            "tipe": "isi",
+                            "judul": "Niat Shalat",
+                            "arab": ["اُصَلِّي سُنَّةَ التَّوْبَةِ رَكْعَتَيْنِ لِلّٰهِ تَعَالٰى"],
+                            "latin": ["Ushollii sunnat taubati  rok'ataini lillahi ta'ala"],
+                            "indo": ["Saya niat sholat sunnah Taubat dua roka'at karena Alloh Ta'ala."]
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Jumlah Raka'at",
+                            "keterangan": {
+                                "awal": [
+                                    "2 Raka'at"
+                                ]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Raka'at Pertama",
+                            "keterangan": {
+                                "awal": [
+                                    "Surat An Nisaa ayat 64"
+                                ]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Raka'at Kedua",
+                            "keterangan": {
+                                "awal": [
+                                    "Surat Ali Imron ayat 135"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tipe": "radio",
+                    "judul": "Shalat Sunnah Istikharah (dengan posisi duduk)",
+                    "isi": [
+                        {
+                            "tipe": "isi",
+                            "judul": "Niat Shalat",
+                            "arab": ["اُصَلِّي سُنَّةَ الْإِسْتِخَارَةِ رَكْعَتَيْنِ لِلّٰهِ تَعَالٰى"],
+                            "latin": ["Ushollii sunnatal istikhoroti rok'ataini  lillaahi ta'alaa"],
+                            "indo": ["Saya niat sholat sunnah Istikhoroh dua roka'at karena Alloh Ta'ala"]
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Jumlah Raka'at",
+                            "keterangan": {
+                                "awal": [
+                                    "2 Raka'at"
+                                ]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Shalat",
+                            "keterangan": {
+                                "awal": [
+                                    "Setiap Raka'at  Ayat kursi 1 kali, Surah Al ikhlas 7 kali"
+                                ]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Selesai Salam (sambil duduk)",
+                            "arab": [
+                                "قَلْبِي قُطْبِي ؛ وَقَالَبِي لُبْنَانِي ؛ سِرِّي حَضِرِي ؛ عَيْنُهُ عِرْفَانِي؛ هَارُوْنُ عَقْلِي ؛ وَكَلِيْمِي رُوْحِي؛ وَفِرْعَوْنُ نَفْسِي ؛ وَالْهَوَى هَامَانِي (x7)",
+                                "اَللّٰهُمَّ نَوِّرْ قَلْبِي بِنُوْرِ هِدَايَتِكَ ؛ كَمَا نَوَّرْتَ الْأَرْضَ بِنُوْرِ شَمْسِكَ اَبَدًا."
+                            ],
+                            "latin": [
+                                "Qolbii quthbii, waqoolabii lubnaani, sirrii hadhirii, 'ainuhu 'irfaanii, Haaruunu aqlii, wakalimii ruuhii, wa fir'aunii nafsii, wal hawaa haamaanii (7x)",
+                                "Alloohumma nawwir qolbii bi nuuri hidaayatika, ka maa nawwartal ardho bi nuuri syamsika abadan."
+                            ],
+                            "indo": [
+                                "Hatiku adalah qutubku, acuanku adalah kehendakku, rahasiaku adalah kehadiranku, dimana penglihatannya adalah pengetahuanku, Nabi Harun menjadi akalku, yang berbicara kepadaku adalah ruhku, Fir'aun adalah nafsuku dan keinginan nafsuku menjadi seperti Haman bagiku.",
+                                "Ya Alloh cahayailah hatiku dengan Cahaya Hidayah-Mu, sebagaimana Engkau cahayai bumi selamanya dengan cahaya matahari-Mu."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tipe": "radio",
+                    "judul": "Shalat Sunnah Hajat",
+                    "isi": [
+                        {
+                            "tipe": "isi",
+                            "judul": "Niat Shalat",
+                            "arab": ["اُصَلِّي سُنَّةَ الْـحَاجَةِ رَكْعَتَيْنِ لِلّٰهِ تَعَالٰى"],
+                            "latin": ["Ushollii sunnatal haajati rok'ataini lillaahi ta'ala"],
+                            "indo": ["Saya niat sholat sunnah Hajat dua roka'at karena Alloh Ta'ala."]
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Jumlah Raka'at",
+                            "keterangan": {
+                                "awal": ["2 Raka'at"]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Shalat",
+                            "keterangan": {
+                                "awal": ["Setiap raka'at membaca Surat Al Ikhlas (11x)"]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Selesai Salam",
+                            "keterangan": {
+                                "awal": ["Sujud dan memohon ampunan dari dosa, mensyukuri, nikmat dan memohon  hajatnya"]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Setelah Selesai",
+                            "arab": [
+                                "يَا شَيْخَ مُحْيِ الدِّيْنِ",
+                                "يَا سَيِّدَ مُحْيِ الدِّيْنِ",
+                                "يَا مَوْلَانَا مُحْيِ الدِّيْنِ",
+                                "يَا مَخْدُوْمَ مُحْيِ الدِّيْنِ",
+                                "يَا خَوَاجَةَ مُحْيِ الدِّيْنِ",
+                                "يَا شَاهَ مُحْيِ الدِّيْنِ",
+                                "يَا دَرْوِيْشَ مُحْيِ الدِّيْنِ",
+                                "يَا قُطْبَ مُحْيِ الدِّيْنِ",
+                                "يَا سُلْطَانَ مُحْيِ الدِّيْنِ",
+                                "يَا غَوْثَ مُحْيِ الدِّيْنِ",
+                                "يَا سَيِّدَ السَّادَاتِ مُحْيِ الدِّيْنِ عَبْدَ الْقَادِرِ"
+                            ],
+                            "latin": [
+                                "Yaa Syaikha Muhyiddin",
+                                "Yaa Sayyida Muhyiddin",
+                                "Yaa Maulanaa Muhyiddin",
+                                "Yaa Makhduuma Muhyiddin",
+                                "Yaa Khawaajah Muhyiddin",
+                                "Yaa Syaaha Muhyiddin",
+                                "Yaa Darwiisya Muhyiddin",
+                                "Yaa Quthba Muhyiddin",
+                                "Yaa Sulthaana Muhyiddin",
+                                "Yaa Ghautsa Muhyiddin",
+                                "Yaa Sayyidas Saadaati Muhyiddin Abdul Qadir"
+                            ],
+                            "keterangan": {
+                                "awal": [
+                                    "Duduk dan membaca sholawat 11 x (boleh sholawat Bani Hasyim)",
+                                    "Lalu berdiri menghadap arah Baghdad (barat daya) dan melangkah, selangkah demi selangkah sebanyak 11x langkah dimulai  dengan kaki kanan, dengan bacaan: "
+                                ]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "arab": ["يَا عُبَيْدَ اللّٰهِ أَغِثْنِي بِإِذْنِ اللّٰهِ ، وَيَا شَيْخَ الثَّقَلَيْنِ أَغِثْنِي وَ امْدُدْنِي فِي قَضَاءِ حَوَائِجِي (وتسمى حاجته)"],
+                            "latin": ["Yaa ubaidillah agitsni bi idznillaah. Wayaa syaikha Tsaqolain aghitsni' wamdudnii fii qodloo'i hawaa'iji '. (sebutkan hajatnya)"],
+                            "indo": ["Wahai 'UbaidAlloh, tolonglah aku dengan Izin Alloh, Wahai Syaikhos Tsaqolain, tolonglah aku, bantulah aku dalam tercapainya hajatku ini (sebutkan hajatnya)."]
+                        },
+                        {
+                            "tipe": "isi",
+                            "arab": ["اَللّٰهُمَّ لَكَ الْكُلُّ وَبِكَ الْكُلُّ وَمِنْكَ الْكُلُّ وَاِلَيْكَ الْكُلُّ وَأَنْتَ الْكُلُّ وَكُلُّ الْكُلِّ بِرَحْمَتِكَ يَا اَرْحَمَ الرَّاحِمِيْنَ"],
+                            "latin": ["Alloohumma lakal kullu, wabikal kullu, wa minkal kullu, wa ilaikal  kullu, wa Antal kullu, wa kullul kulli birohmatika. Yaa arhamar roohimiin."],
+                            "indo": ["Ya Alloh, untuk-Mu segala hal, dengan-Mu segala hal, dari-Mu segala hal, kepada-Mu segala hal, Engkaulah segala hal dan segala-segalanya, dengan Rahmat-Mu Wahai Zat Yang Maha Mengasihi orang-orang yang mengasihi."]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

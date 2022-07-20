@@ -1,0 +1,97 @@
+{
+    "judul": "Sholat Dzuhur",
+    "deskripsi": "Panduan Amaliyah saat Waktu Sholat Dzuhur",
+    "topik": "Sholat",
+    "tags": ["amaliyah harian", "sholat"],
+    "isi": [
+        {
+            "tipe": "bernomor",
+            "isi": [
+                {
+                    "tipe": "radio",
+                    "judul": "Shalat Sunnah Qobliyah Dzuhur",
+                    "isi": [
+                        {
+                            "tipe": "isi",
+                            "judul": "Jumlah Raka'at",
+                            "keterangan": {
+                                "akhir": ["2 Raka'at"]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Shalat ",
+                            "keterangan": {
+                                "akhir": [
+                                    "Bebas"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tipe": "radio",
+                    "judul": "Shalat Fardhu Dzuhur",
+                    "isi": [
+                        {
+                            "tipe": "isi",
+                            "judul": "Jumlah Raka'at ",
+                            "keterangan": {
+                                "akhir": ["4 Raka'at"]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Raka'at Pertama",
+                            "keterangan": {
+                                "akhir": [
+                                    "Surat Al Kaafirun"
+                                ]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Raka'at Kedua",
+                            "keterangan": {
+                                "akhir": [
+                                    "Surat Al Ikhlas"
+                                ]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Setelah Salam",
+                            "keterangan": {
+                                "akhir": ["Zikir Harian"]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tipe": "radio",
+                    "judul": "Shalat Sunnah Ba'diyah Dzuhur",
+                    "isi": [
+                        {
+                            "tipe": "isi",
+                            "judul": "Jumlah Raka'at",
+                            "keterangan": {
+                                "akhir": [
+                                    "4 Raka'at 2 kali salam. (Pada dua raka'at  terakhir dilakukan dengan posisi duduk)"
+                                ]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Shalat",
+                            "keterangan": {
+                                "awal": [
+                                    "Bebas"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+[
+    {
+      "topic": "Sholat",
+      "content": [
+        {
+          "title": "Hendak Tidur",
+          "description": "Panduan Amaliyah saat Hendak Tidur",
+          "topic": "Sholat",
+          "tags": [
+            "amaliyah harian",
+            "sholat"
+          ]
+        },
+        {
+          "title": "Sholat Ashar",
+          "description": "Panduan Amaliyah saat Waktu Sholat Ashar",
+          "topic": "Sholat",
+          "tags": [
+            "amaliyah harian",
+            "sholat"
+          ]
+        },
+        {
+          "title": "Waktu Isyraq",
+          "description": "Panduan Amaliyah saat Waktu isyraq",
+          "topic": "Sholat",
+          "tags": [
+            "amaliyah harian",
+            "sholat"
+          ]
+        },
+        {
+          "title": "Sholat Dzuhur",
+          "description": "Panduan Amaliyah saat Waktu Sholat Dzuhur",
+          "topic": "Sholat",
+          "tags": [
+            "amaliyah harian",
+            "sholat"
+          ]
+        },
+        {
+          "title": "Sholat Isya",
+          "description": "Panduan Amaliyah saat Waktu Sholat Isya",
+          "topic": "Sholat",
+          "tags": [
+            "amaliyah harian",
+            "sholat"
+          ]
+        },
+        {
+          "title": "Sholat Maghrib",
+          "description": "Panduan Amaliyah saat Waktu Sholat Maghrib",
+          "topic": "Sholat",
+          "tags": [
+            "amaliyah harian",
+            "sholat"
+          ]
+        },
+        {
+          "title": "Sholat Malam",
+          "description": "Panduan Amaliyah saat Waktu Sholat Malam",
+          "topic": "Sholat",
+          "tags": [
+            "amaliyah harian",
+            "sholat"
+          ]
+        },
+        {
+          "title": "Sholat Subuh",
+          "description": "Panduan Amaliyah saat Waktu Sholat Shubuh",
+          "topic": "Sholat",
+          "tags": [
+            "amaliyah harian",
+            "sholat"
+          ]
+        },
+        {
+          "title": "Waktu Dhuha",
+          "description": "Panduan Amaliyah saat Waktu isyraq",
+          "topic": "Sholat",
+          "tags": [
+            "amaliyah harian",
+            "sholat"
+          ]
+        },
+        {
+          "title": "Waktu Isyraq",
+          "description": "Panduan Amaliyah saat Waktu isyraq",
+          "topic": "Sholat",
+          "tags": [
+            "amaliyah harian",
+            "sholat"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Amaliyah Robithoh Murid",
+      "content": [
+        {
+          "title": "Khotaman",
+          "description": "Panduan Khotaman",
+          "topic": "Amaliyah Robithoh Murid",
+          "tags": [
+            "amaliyah harian",
+            "khotaman"
+          ]
+        },
+        {
+          "title": "Zikir",
+          "description": "Panduan zikir setelah sholat",
+          "topic": "Amaliyah Robithoh Murid",
+          "tags": [
+            "amaliyah harian",
+            "zikir"
+          ]
+        }
+      ]
+    }
+  ]

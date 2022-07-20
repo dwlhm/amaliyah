@@ -1,0 +1,378 @@
+{
+    "judul": "Sholat Malam",
+    "deskripsi": "Panduan Amaliyah saat Waktu Sholat Malam",
+    "topik": "Sholat",
+    "tags": ["amaliyah harian", "sholat"],
+    "keterangan": {
+        "awal": ["Pilihan Waktu : Mulai Jam 00.01 Dini Hari"]
+    },
+    "isi": [
+        {
+            "tipe": "bernomor",
+            "isi": [
+                {
+                    "tipe": "radio",
+                    "judul": "Mandi Taubat",
+                    "isi": [
+                        {
+                            "tipe": "isi",
+                            "judul": "Cara Mandi",
+                            "keterangan": {
+                                "awal": ["Seperti mandi janabat (mandi wajib)"]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Do'a Mandi Taubat",
+                            "arab": ["رَبِّ اَنْزِلْنِي مُنْزَلًا مُبَارَكًا وَاَنْتَ خَيْرُ الْمُنْزِلِيْنَ"],
+                            "latin": ["Robbii anzilnii munzalan mubaarokan wa Anta khoirul munziilin"],
+                            "keterangan": {
+                                "akhir": ["(QS. Al Mu'minun : 29)"]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tipe": "radio",
+                    "judul": "Shalat Syukril Wudhu",
+                    "isi": [
+                        {
+                            "tipe": "isi",
+                            "judul": "Niat Shalat",
+                            "arab": ["اُصَلِّي سُنَّةً لِشُكْرِ الْوُضُوْءِ رَكْعَتَيْنِ لِلّٰهِ تَعَالٰى"],
+                            "latin": ["Ushollii sunnatan lisyukril wudluu'i rok'ataini lillaahi Ta'alaa"],
+                            "indo": ["Saya niat sholat sunnah Syukrul Wudhu' dua roka'at karena Alloh Ta'ala."]
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Jumlah Raka'at",
+                            "keterangan": {
+                                "awal": [
+                                    "2 Raka'at"
+                                ]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Shalat",
+                            "keterangan": {
+                                "awal": [
+                                    "Bebas"
+                                ]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Waktu Pelaksanaan",
+                            "keterangan": {
+                                "awal": ["Setiap habis wudlu selagi masih  basah"]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tipe": "radio",
+                    "judul": "Shalat Sunnah Taubat",
+                    "isi": [
+                        {
+                            "tipe": "isi",
+                            "judul": "Niat Shalat",
+                            "arab": ["اُصَلِّي سُنَّةَ التَّوْبَةِ رَكْعَتَيْنِ لِلّٰهِ تَعَالٰى"],
+                            "latin": ["Ushollii sunnat taubati  rok'ataini lillahi ta'ala"],
+                            "indo": ["Saya niat sholat sunnah Taubat dua roka'at karena Alloh Ta'ala."]
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Jumlah Raka'at",
+                            "keterangan": {
+                                "awal": [
+                                    "2 Raka'at"
+                                ]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Raka'at Pertama",
+                            "keterangan": {
+                                "awal": [
+                                    "Surat An Nisaa ayat 64"
+                                ]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Raka'at Kedua",
+                            "keterangan": {
+                                "awal": [
+                                    "Surat Ali Imron ayat 135"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tipe": "radio",
+                    "judul": "Shalat Sunnah Hajat",
+                    "isi": [
+                        {
+                            "tipe": "isi",
+                            "judul": "Niat Shalat",
+                            "arab": ["اُصَلِّي سُنَّةَ الْـحَاجَةِ رَكْعَتَيْنِ لِلّٰهِ تَعَالٰى"],
+                            "latin": ["Ushollii sunnatal haajati rok'ataini lillaahi ta'ala"],
+                            "indo": ["Saya niat sholat sunnah Hajat dua roka'at karena Alloh Ta'ala."]
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Jumlah Raka'at",
+                            "keterangan": {
+                                "awal": ["2 Raka'at"]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Shalat",
+                            "keterangan": {
+                                "awal": ["Setiap raka'at membaca Surat Al Ikhlas (11x)"]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Selesai Salam",
+                            "keterangan": {
+                                "awal": ["Sujud dan memohon ampunan dari dosa, mensyukuri, nikmat dan memohon  hajatnya"]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Setelah Selesai",
+                            "arab": [
+                                "يَا شَيْخَ مُحْيِ الدِّيْنِ",
+                                "يَا سَيِّدَ مُحْيِ الدِّيْنِ",
+                                "يَا مَوْلَانَا مُحْيِ الدِّيْنِ",
+                                "يَا مَخْدُوْمَ مُحْيِ الدِّيْنِ",
+                                "يَا خَوَاجَةَ مُحْيِ الدِّيْنِ",
+                                "يَا شَاهَ مُحْيِ الدِّيْنِ",
+                                "يَا دَرْوِيْشَ مُحْيِ الدِّيْنِ",
+                                "يَا قُطْبَ مُحْيِ الدِّيْنِ",
+                                "يَا سُلْطَانَ مُحْيِ الدِّيْنِ",
+                                "يَا غَوْثَ مُحْيِ الدِّيْنِ",
+                                "يَا سَيِّدَ السَّادَاتِ مُحْيِ الدِّيْنِ عَبْدَ الْقَادِرِ"
+                            ],
+                            "latin": [
+                                "Yaa Syaikha Muhyiddin",
+                                "Yaa Sayyida Muhyiddin",
+                                "Yaa Maulanaa Muhyiddin",
+                                "Yaa Makhduuma Muhyiddin",
+                                "Yaa Khawaajah Muhyiddin",
+                                "Yaa Syaaha Muhyiddin",
+                                "Yaa Darwiisya Muhyiddin",
+                                "Yaa Quthba Muhyiddin",
+                                "Yaa Sulthaana Muhyiddin",
+                                "Yaa Ghautsa Muhyiddin",
+                                "Yaa Sayyidas Saadaati Muhyiddin Abdul Qadir"
+                            ],
+                            "keterangan": {
+                                "awal": [
+                                    "Duduk dan membaca sholawat 11 x (boleh sholawat Bani Hasyim)",
+                                    "Lalu berdiri menghadap arah Baghdad (barat daya) dan melangkah, selangkah demi selangkah sebanyak 11x langkah dimulai  dengan kaki kanan, dengan bacaan: "
+                                ]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "arab": ["يَا عُبَيْدَ اللّٰهِ أَغِثْنِي بِإِذْنِ اللّٰهِ ، وَيَا شَيْخَ الثَّقَلَيْنِ أَغِثْنِي وَ امْدُدْنِي فِي قَضَاءِ حَوَائِجِي (وتسمى حاجته)"],
+                            "latin": ["Yaa ubaidillah agitsni bi idznillaah. Wayaa syaikha Tsaqolain aghitsni' wamdudnii fii qodloo'i hawaa'iji '. (sebutkan hajatnya)"],
+                            "indo": ["Wahai 'UbaidAlloh, tolonglah aku dengan Izin Alloh, Wahai Syaikhos Tsaqolain, tolonglah aku, bantulah aku dalam tercapainya hajatku ini (sebutkan hajatnya)."]
+                        },
+                        {
+                            "tipe": "isi",
+                            "arab": ["اَللّٰهُمَّ لَكَ الْكُلُّ وَبِكَ الْكُلُّ وَمِنْكَ الْكُلُّ وَاِلَيْكَ الْكُلُّ وَأَنْتَ الْكُلُّ وَكُلُّ الْكُلِّ بِرَحْمَتِكَ يَا اَرْحَمَ الرَّاحِمِيْنَ"],
+                            "latin": ["Alloohumma lakal kullu, wabikal kullu, wa minkal kullu, wa ilaikal  kullu, wa Antal kullu, wa kullul kulli birohmatika. Yaa arhamar roohimiin."],
+                            "indo": ["Ya Alloh, untuk-Mu segala hal, dengan-Mu segala hal, dari-Mu segala hal, kepada-Mu segala hal, Engkaulah segala hal dan segala-segalanya, dengan Rahmat-Mu Wahai Zat Yang Maha Mengasihi orang-orang yang mengasihi."]
+                        }
+                    ]
+                },
+                {
+                    "tipe": "radio",
+                    "judul": "Shalat Tahajjud",
+                    "isi": [
+                        {
+                            "tipe": "isi",
+                            "judul": "Niat Shalat",
+                            "arab": ["اُصَلِّي سُنَّةَ التَّهَجُّدِ رَكْعَتَيْنِ لِلّٰهِ تَعَالٰى"],
+                            "latin": ["Ushollii sunnatat tahajjudi rok'ataini lillaahi ta'ala"],
+                            "indo": ["Saya niat sholat sunnah Tahajjud dua roka'at karena Alloh Ta'ala."]
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Jumlah Raka'at",
+                            "keterangan": {
+                                "awal": ["6 Raka'at ( dengan 3 kali salam)"]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Raka'at Pertama",
+                            "keterangan": {
+                                "awal": ["Surat Al Baqarah ayat 284-286"]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Raka'at Kedua",
+                            "keterangan": {
+                                "awal": ["Surat Ali imran ayat 18,19, 26-27"]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Do'a Shalat Tahajjud",
+                            "arab": ["اَللّٰهُمَّ بِحَقِّ صَلَاةِ التَّهَجُّدِ، وَبِحَقِّ بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ، وَبِحَقِّ سَيِّدِنَا وَمَوْلَانَا مُحَمَّدٍ صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ، اِجْعَلْنِي وَزَوْجَتِي (وَزَوْجِي) وَاَوْلَادِي مِنْ عِبَادِكَ الصَّالِحِيْنَ. اَللّٰهُمَّ اجْعَلْنِي اِيْمَانًا يُبَاشِرُ قَلْبِي، وَيَقِيْنًا دَائِمًا حَتَّى أَنَّهُ لَنْ يُصِيْبَنِي اِلَّا مَا كَتَبَ اللّٰهُ لِي بِرَحْمَتِكَ يَا أَرْحَمَ الرَّاحِمِيْنَ."],
+                            "latin": ["Alloohumma bihaqqi shalatit Tahajjudi, wa bihaqqi Bismillahirrahmanirrahim, wa bihaqqi sayyidina wa mawlaana Muhammadin shollallaahu 'alaihi wa sallama, ij'alni wa zawjatii (wa zawjii) wa awlaadii min 'ibaadikas shoolihiin. Alloohummaj'alnii iimaanan yubaasyiru qalbii, wa yaqiinan daa'iman hatta annahu layyushibanii illa maa kataballoohu lii birahmatika Yaa Arhamar Rohimiin."],
+                            "indo": ["Ya Alloh dengan Hak Sholat Tahajjud, dengan Hak Bismillahirrahmanirrohim, dan dengan Hak Tuan dan Pangeran kami Muhammad saw, jadikanlah aku, istriku (suamiku), dan anak-anakku termasuk dalam golongan Hamba-Hamba-Mu yang sholeh. Ya Alloh jadikanlah keimananku selalu menyelimuti hatiku, berikanlah keyakinan yang terus menerus, hingga tidak ada yang dapat menimpaku kecuali sesuatu yang telah Alloh tetapkan kepadaku, dengan Rahmat-Mu wahai Zat yang Maha Mengasihi orang-orang yang mengasihi."]
+                        }
+                    ]
+                },
+                {
+                    "tipe": "radio",
+                    "judul": "Shalat Tasbih",
+                    "isi": [
+                        {
+                            "tipe": "isi",
+                            "judul": "Niat Shalat",
+                            "arab": ["اُصَلِّي سُنَّةَ التَّسْبِيْحِ رَكْعَتَيْنِ / اَرْبَعَ رَكَعَاتٍ لِلّٰهِ تَعَالٰى"],
+                            "latin": ["ushollii sunnatat tasbiihi rok'ataini / arba'a rak'aatin lillaahi ta'ala"],
+                            "indo": ["Saya niat sholat sunnah Tasbih dua roka'at (empat roka'at) karena Alloh Ta'ala."]
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Jumlah Raka'at",
+                            "keterangan": {
+                                "awal": ["4 Raka'at 2x Salam (Bila dikerjakan malam hari) atau 4 Raka'at 1x salam", "(Bila dikerjakan siang hari dan tanpa Tasyahud awal)"]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Raka'at Pertama",
+                            "keterangan": {
+                                "awal": ["Surat Al Ikhlas (4x)"]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Raka'at Kedua",
+                            "keterangan": {
+                                "awal": ["Surat Al Ikhlas (3x)"]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Raka'at Ketiga",
+                            "keterangan": {
+                                "awal": ["Surat Al Ikhlas (2x)"]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Raka'at Keempat",
+                            "keterangan": {
+                                "awal": ["Surat Al Ikhlas (1x)"]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Tatacara Bacaan Tasbih",
+                            "keterangan": {
+                                "awal": [
+                                    "Setelah membaca Al Fatihah & Surah (15x)",
+                                    "Ruku' (10x)",
+                                    "I'tidal (10x)",
+                                    "Sujud Pertama (10x)",
+                                    "Duduk diantara Sujud (10x)",
+                                    "Sujud Kedua (10x)",
+                                    "Duduk Sebelum Berdiri (10x)"
+                                ]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Lafadz Tasbih",
+                            "arab": ["سُبْحَانَ اللّٰهِ وَالْحَمْدُ لِلّٰهِ وَلَا إِلٰهَ إِلَّا اللّٰهُ وَ اللّٰهُ أَكْبَرُ"],
+                            "latin": ["Subhaanallohi wal hamdu lillaahi wa  laa ilaaha illalloohi walloohu Akbar"],
+                            "indo": [" Maha Suci Alloh, Segala Puji bagi Alloh, Tidak ada tuhan kecuali Alloh, Alloh Maha Besar"]
+                        }
+                    ]
+                },
+                {
+                    "tipe": "radio",
+                    "judul": "Shalat Witir",
+                    "isi": [
+                        {
+                            "tipe": "isi",
+                            "judul": "Niat Shalat",
+                            "arab": ["اُصَلِّي سُنَّةَ الْوِتْرِ ثَلَاثَ رَكَعَاتٍ لِلّٰهِ تَعَالٰى"],
+                            "latin": ["Ushollii sunnatal witri tsalasa roka'atin lillaahi ta'ala "],
+                            "indo": ["Saya niat sholat sunnah Witir tiga roka'at karena Alloh Ta'ala."]
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Jumlah Raka'at",
+                            "keterangan": {
+                                "awal": ["3 Raka'at dalam posisi duduk (1 kali salam ditambah dengan doa Qunut )"]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Raka'at Pertama",
+                            "keterangan": {
+                                "awal": ["Surat Al A'laa"]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Raka'at Kedua",
+                            "keterangan": {
+                                "awal": ["Surat Al Kafirun"]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Raka'at Ketiga",
+                            "keterangan": {
+                                "awal": ["Surat Al Ikhlas"]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Doa Qunut'",
+                            "latin": [
+                                "Alloohummahdinaa fii man haadait.",
+                                "Wa 'aafiinaa fii man 'aafait. ",
+                                "Wa tawallanaa fii man tawallait. ",
+                                "Wa baarik lanaa fii maa a'thoit. ",
+                                "Wa qinaa washrif 'annaa birohmatika syarro maa qadhoit.",
+                                "Fa innaka taqdhi walaa yuqdhoo 'alaik. Fa innahu laa yadzillu man waalait. Walaa ya'izzu man 'aadait. Tabaarokta robbanaa wa ta'aalait. Falakal hamdu 'alaa maa qodhoit.",
+                                "Wanastagfiruka wanatuubu taubatann nashuuhan ilaik.",
+                                "",
+                                "Tahashshonnaa bi dzil izzati wal jabaruut. Wa'tashomnaa birobbil mulki wal malakut. Watawakkalnaa 'alal hayyil ladzii laa yamuut. Wanajjiinaa minal qoumiz dzoolimiin. Washollalloohu 'alaa sayyidinaa Muhammad wa 'ala alihi wa ashhabihi wa 'ala sairil anbiya wal mursaliln wa 'alaa alihim wa ashaabihim ajma'in."
+                            ],
+                            "keterangan": {
+                                "akhir": ["(Baacan Qunut telah di update sesuai dengan Maklumat, 4 Mei 2020)"]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Setelah Selesai",
+                            "keterangan": {
+                                "awal": ["Zikir hingga menjelang subuh dan perbanyak membaca:"]
+                            },
+                            "arab": ["اَلْمُحِيْطُ اَلرَّبُّ اَلشَّهِيْدُ اَلْحَسِيْبُ اَلْفَعَّالُ اَلْـخَلَّاقُ اَلْـخَالِقُ اَلْبَارِئُ اَلْمُصَوِّرُ"],
+                            "latin": ["Al Muhiithu Ar Robbu Asy Syahiidu Al Hasibu Al Fa'aalu Al Khollaaqu Al Khooliqu Al Baari'u Al Mushowwiru"],
+                            "indo": [" Maha Meliputi, Maha Mendidik, Maha Menyaksikan, Maha Menghitung, Maha Melakukan Segala Hal, Maha Menciptakan, Maha Menciptakan, Maha Melepaskan, Maha Membentuk"]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

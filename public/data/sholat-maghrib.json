@@ -1,0 +1,269 @@
+{
+    "judul": "Sholat Maghrib",
+    "deskripsi": "Panduan Amaliyah saat Waktu Sholat Maghrib",
+    "topik": "Sholat",
+    "tags": ["amaliyah harian", "sholat"],
+    "isi": [
+        {
+            "tipe": "bernomor",
+            "isi": [
+                {
+                    "tipe": "radio",
+                    "judul": "Shalat Sunnah Qabliyyah Ashar",
+                    "isi": [
+                        {
+                            "tipe": "isi",
+                            "judul": "Shalat Sunnah Qobliyah Maghrib"
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Jumlah Raka'at",
+                            "keterangan": {
+                                "akhir": [
+                                    "2 Raka'at"
+                                ]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Shalat",
+                            "keterangan": {
+                                "awal": ["Bebas"]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tipe": "radio",
+                    "judul": "Shalat Fardhu Maghrib",
+                    "isi": [
+                        {
+                            "tipe": "isi",
+                            "judul": "Jumlah Raka'at",
+                            "keterangan": {
+                                "akhir": ["3 Raka'at"]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Raka'at Pertama",
+                            "keterangan": {
+                                "akhir": [
+                                    "Surat Al Kaafirun"
+                                ]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Raka'at Kedua",
+                            "keterangan": {
+                                "awal": [
+                                    "Surat An Nashru"
+                                ]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Setelah Salam",
+                            "keterangan": {
+                                "akhir": ["Zikir Harian dan Zikir Khataman"]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tipe": "radio",
+                    "judul": "Shalat Sunnah Ba'diyah Maghrib",
+                    "isi": [
+                        {
+                            "tipe": "isi",
+                            "judul": "Jumlah Raka'at",
+                            "keterangan": {
+                                "awal": ["2 Raka'at"]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Shalat",
+                            "keterangan": {
+                                "awal": ["Bebas"]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tipe": "radio",
+                    "judul": "Shalat Sunnah Awwaabiin",
+                    "isi": [
+                        {
+                            "tipe": "isi",
+                            "arab": ["اُصَلِّي سُنَّةَ الْأَوَّابِيْنَ رَكْعَتَيْنِ لِلّٰهِ تَعَالٰى"],
+                            "latin": ["Ushollii sunnatal awwaabiin rok'ataini lillaahi ta'alaa"],
+                            "indo": ["Saya niat sholat sunnah Awwabin dua roka'at karena Alloh Ta'ala"]
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Jumlah Raka'at",
+                            "keterangan": {
+                                "awal": ["2 Raka'at"]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Shalat",
+                            "keterangan": {
+                                "awal": ["Bebas"]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tipe": "radio",
+                    "judul": "Shalat Sunnah Taubat",
+                    "isi": [
+                        {
+                            "tipe": "isi",
+                            "judul": "Niat Shalat",
+                            "arab": ["اُصَلِّي سُنَّةَ التَّوْبَةِ رَكْعَتَيْنِ لِلّٰهِ تَعَالٰى"],
+                            "latin": ["Ushollii sunnatat taubati rok'ataini lillaahi ta'alaa"],
+                            "indo": ["Saya niat sholat sunnah Taubat dua roka'at karena Alloh Ta'ala"]
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Jumlah Raka'at",
+                            "keterangan": {
+                                "awal": ["2 Raka'at"]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Raka'at Pertama",
+                            "keterangan": {
+                                "awal": ["Surat An Nisaa ayat 64"]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Raka'at Kedua",
+                            "keterangan": {
+                                "awal": ["Surat Ali Imron ayat 135"]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tipe": "radio",
+                    "judul": "Shalat Sunnah Birrul Waalidain",
+                    "isi": [
+                        {
+                            "tipe": "isi",
+                            "judul": "Niat Shalat",
+                            "arab": ["اُصَلِّي سُنَّةَ بِرِّ الْوَالِدَيْنِ رَكْعَتَيْنِ لِلّٰهِ تَعَالٰى"],
+                            "latin": ["Ushollii sunnatal birril waalidaini rok'ataini lillaahi ta'alaa"],
+                            "indo": ["Saya niat sholat sunnah Birrul Waalidain dua roka'at karena Alloh Ta'ala"]
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Jumlah Raka'at",
+                            "keterangan": {
+                                "awal": ["2 Raka'at"]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Shalat",
+                            "keterangan": {
+                                "awal": ["Setiap Raka'at : Ayat Kursi , Surat Al Falaq, Surat An Naas (Masing-masing di baca 5 kali)"]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Setelah Salam, duduk dengan membaca Istighfar (15 kali) dan Sholawat Bani Hasyim (15 kali)",
+                            "keterangan": {
+                                "awal": ["Keduanya (Istighfar dan Sholawat) Di Hadiahkan Untuk  Ibu Dan Bapak"]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Lafadz Istighfarnya",
+                            "arab": ["اللَّهُمَّ اغْفِرْلَنَا ذُنُوْبَنَا وَ ذُنُوْبَ وَالِدَيْنَا وَارْحَمْهُمَا كَمَا رَبَّيَانَا صِغَارًا"],
+                            "latin": ["Allahummaghfirlana zunubana wali wa lidaina, warhamhumaa kamaa robbayana shoghiyroo"],
+                            "indo": ["Ya Alloh, ampunilah dosa-dosa kami dan dosa kedua orang tua kami, serta sayangilah mereka sebagaimana hal nya mereka menyayangi kami. (15 kali)"]
+                        }
+                    ]
+                },
+                {
+                    "tipe": "radio",
+                    "judul": "Shalat Sunnah Hifzhil Iman",
+                    "isi": [
+                        {
+                            "tipe": "isi",
+                            "judul": "Niat Shalat",
+                            "arab": ["اُصَلِّي سُنَّةً لِحِفْظِ الْإِيْمَانِ رَكْعَتَيْنِ لِلّٰهِ تَعَالٰى"],
+                            "latin": ["Ushollii sunnatan lihifzhil iimaan rok'ataini  lillaahi ta'alaa"],
+                            "indo": ["Saya niat sholat sunnah Hifzhil Iman dua roka'at karena Alloh Ta'ala"]
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Jumlah Rakaat",
+                            "keterangan": {
+                                "awal": ["2 Raka'at"]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Raka'at Pertama",
+                            "keterangan": {
+                                "awal": ["Surat Al Kaafirun"]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Raka'at Kedua",
+                            "keterangan": {
+                                "awal": ["Surat Al Ikhlas"]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tipe": "radio",
+                    "judul": "Shalat Sunnah Syukrun Ni'mat",
+                    "isi": [
+                        {
+                            "tipe": "isi",
+                            "judul": "Niat Shalat",
+                            "arab": ["اُصَلِّي سُنَّةَ شُكْرِ النِّعْمَةِ رَكْعَتَيْنِ لِلّٰهِ تَعَالٰى"],
+                            "latin": ["Ushollii sunnata syukrin ni'imati rok'ataini lillaahi ta'alaa"],
+                            "indo": ["Saya niat sholat sunnah Syukrun Ni'mat dua roka'at karena Alloh Ta'ala"]
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Raka'at Pertama",
+                            "arab": ["وَآتَاكُم مِّن كُلِّ مَا سَأَلْتُمُوهُ"],
+                            "latin": ["waaataakum min kulli maa sa-altumuuhu"]
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Raka'at Kedua",
+                            "arab": ["وَإِن تَعُدُّواْ نِعْمَتَ اللّهِ لاَ تُحْصُوهَا إِنَّ الإِنسَانَ لَظَلُومٌ كَفَّارٌ"],
+                            "latin": ["wa-in ta'udduu ni'mata allaahi laa tuhsuuhaa inna al-insaana lazhaluumun kaffaarun"]
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Jumlah Raka'at",
+                            "keterangan": {
+                                "awal": ["2 Raka'at (dengan posisi duduk)"]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Do'a Sujud",
+                            "latin": ["Allohumma laka sajadtu wa bika aamantu, wa laka aslamtu, sajada wajhiya lilladhi khalqahu, wa sawwarahu, wa shaqqa sam'ahu wa basarahu, tabaarak-Allohu ahsanul khaaliqeen."]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,6 +1,6 @@
 export const GetAmaliyah = async (id: string) => {
 
-    let api = await fetch(`/amaliyah/${id}.json`)
+    let api = await fetch(`/data/${id}.json`)
         .then(res => res.json())
         .catch(err => {
             return {msg: "error", body: "Masalah koneksi server"}

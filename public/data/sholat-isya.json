@@ -1,0 +1,128 @@
+{
+    "judul": "Sholat Isya",
+    "deskripsi": "Panduan Amaliyah saat Waktu Sholat Isya",
+    "topik": "Sholat",
+    "tags": ["amaliyah harian", "sholat"],
+    "isi": [
+        {
+            "tipe": "bernomor",
+            "isi": [
+                {
+                    "tipe": "radio",
+                    "judul": "Shalat Sunnah Qobliyah",
+                    "isi": [
+                        {
+                            "tipe": "isi",
+                            "judul": "Jumlah Raka'at",
+                            "keterangan": {
+                                "awal": [
+                                    "2 Raka'at"
+                                ]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Shalat",
+                            "keterangan": {
+                                "awal": [
+                                    "Bebas"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tipe": "radio",
+                    "judul": "Shalat Fardhu  Isya",
+                    "isi": [
+                        {
+                            "tipe": "isi",
+                            "judul": "Jumlah Raka'at",
+                            "keterangan": {
+                                "awal": [
+                                    "4 Raka'at"
+                                ]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Raka'at Pertama",
+                            "keterangan": {
+                                "awal": [
+                                    "Surat Al Fiil"
+                                ]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Raka'at Kedua",
+                            "keterangan": {
+                                "awal": [
+                                    "Surat Al Quraisy"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tipe": "radio",
+                    "judul": "Shalat Sunnah Ba'diyah (dengan posisi duduk)",
+                    "isi": [
+                        {
+                            "tipe": "isi",
+                            "judul": "Jumlah Raka'at",
+                            "keterangan": {
+                                "awal": [
+                                    "2 Raka'at"
+                                ]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Selesai Salam",
+                            "keterangan": {
+                                "awal": [
+                                    "Zikir Harian"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tipe": "radio",
+                    "judul": "Shalat Sunnah Daf'il Bala'",
+                    "isi": [
+                        {
+                            "tipe": "isi",
+                            "judul": "Niat Shalat",
+                            "arab": ["اُصَلِّي سُنَّةً لِدَفْعِ الْبَلَاءِ رَكْعَتَيْنِ لِلّٰهِ تَعَالٰى"],
+                            "latin": ["Ushollii sunnatan lidaf'il balaa' rok'ataini lilaahi ta'alaa"],
+                            "indo": ["Saya niat sholat sunnah Daf'il Bala' dua roka'at karena Alloh Ta'ala"]
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Jumlah Raka'at",
+                            "keterangan": {
+                                "awal": ["2 Raka'at"]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Shalat",
+                            "keterangan": {
+                                "awal": ["Setiap raka'at membaca Ayat Kursi, Surat Al Ikhlas,  Surat Al Falaq, Surat An Naas (masing-masing 1 kali)"]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Selesai Salam",
+                            "keterangan": {
+                                "awal": ["Zikir Khataman"]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

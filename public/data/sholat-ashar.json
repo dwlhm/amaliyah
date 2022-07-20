@@ -1,0 +1,88 @@
+{
+    "judul": "Sholat Ashar",
+    "deskripsi": "Panduan Amaliyah saat Waktu Sholat Ashar",
+    "topik": "Sholat",
+    "tags": ["amaliyah harian", "sholat"],
+    "isi": [
+        {
+            "tipe": "bernomor",
+            "isi": [
+                {
+                    "tipe": "radio",
+                    "judul": "Shalat Sunnah Qabliyyah Ashar",
+                    "isi": [
+                        {
+                            "tipe": "isi",
+                            "judul": "Niat Shalat ",
+                            "arab": [
+                                "اُصَلِّي سُنَّةَ الْعَصْرِ رَكْعَتَيْنِ لِلّٰهِ تَعَالٰى"
+                            ],
+                            "latin": [
+                                "Ushollii sunnatal ashri rok'ataini lillaahi ta'ala"
+                            ],
+                            "indo": [
+                                "Saya niat sholat sunnah Qobliyah Ashar dua roka'at karena Alloh Ta'ala"
+                            ]
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Jumlah Raka'at",
+                            "keterangan": {
+                                "akhir": [
+                                    "2 Raka'at"
+                                ]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Shalat",
+                            "keterangan": {
+                                "awal": ["Bebas"]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tipe": "radio",
+                    "judul": "Fardhu Ashar",
+                    "isi": [
+                        {
+                            "tipe": "isi",
+                            "judul": "Jumlah Raka'at",
+                            "keterangan": {
+                                "akhir": ["4 Raka'at"]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Raka'at Pertama",
+                            "keterangan": {
+                                "akhir": [
+                                    "Surat Al Ashri"
+                                ]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Raka'at Kedua",
+                            "arab": ["سَلَامٌ قَوْلًا مِنْ رَبٍّ رَحِيمٍ ، وَامْتَازُوا الْيَوْمَ أَيُّهَا الْمُجْرِمُونَ"],
+                            "latin": ["Salaamun qaulan mir  robbir rohiim, wamtaazul yauma ayyuhal mujrimuun"],
+                            "keterangan": {
+                                "awal": [
+                                    "Surat Yasin ayat 58-59"
+                                ]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Setelah Salam",
+                            "keterangan": {
+                                "akhir": ["Zikir Harian"]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

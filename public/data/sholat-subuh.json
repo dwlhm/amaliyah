@@ -1,0 +1,136 @@
+{
+    "judul": "Sholat Subuh",
+    "deskripsi": "Panduan Amaliyah saat Waktu Sholat Shubuh",
+    "topik": "Sholat",
+    "tags": ["amaliyah harian", "sholat"],
+    "keterangan": {
+        "akhir": [
+            "Setelah Shalat Fardhu : Zikir Harian"
+        ]
+    },
+    "isi": [
+        {
+            "tipe": "bernomor",
+            "isi": [
+                {
+                    "tipe": "radio",
+                    "judul": "Sholat Sunnah Shubuh",
+                    "isi": [
+                        {
+                            "tipe": "isi",
+                            "judul": "Niat Shalat",
+                            "arab": ["اُصَلِّي سُنَّةَ الصُّبْحِ رَكْعَتَيْنِ لِلّٰهِ تَعَالٰى"],
+                            "latin": ["Ushollii sunnatas subhi rok'ataini lillaahi ta'alaa"],
+                            "indo": ["Saya niat sholat sunnah Qobliyah Subuh dua roka'at karena Alloh Ta'ala"]
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Jumlah Raka'at",
+                            "keterangan": {
+                                "awal": [
+                                    "2 Raka'at"
+                                ]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Raka'at Pertama",
+                            "keterangan": {
+                                "awal": [
+                                    "Surat Al Qadar"
+                                ]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Raka'at Kedua",
+                            "keterangan": {
+                                "awal": [
+                                    "Surat Al Kautsar"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tipe": "radio",
+                    "judul": "Sholat Lidaf'il Bala (Dengan posisi duduk)",
+                    "isi": [
+                        {
+                            "tipe": "isi",
+                            "judul": "Niat Shalat",
+                            "arab": ["اُصَلِّي سُنَّةً لِدَفْعِ الْبَلَاءِ رَكْعَتَيْنِ لِلّٰهِ تَعَالٰى"],
+                            "latin": ["Ushollii sunnata lidaf'il balaa'i rok'ataini lillaahi ta'alaa"],
+                            "indo": ["Saya niat sholat sunnah Daf'il Bala' dua roka'at karena Alloh Ta'ala"]
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Jumlah Raka'at",
+                            "keterangan": {
+                                "awal": [
+                                    "2 Raka'at"
+                                ]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Raka'at Pertama",
+                            "keterangan": {
+                                "awal": [
+                                    "Surat Al Insyirah"
+                                ]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Raka'at Kedua",
+                            "keterangan": {
+                                "awal": [
+                                    "Surat Al Fiil"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tipe": "radio",
+                    "judul": "Fardhu Subuh",
+                    "keterangan": {
+                        "akhir": [
+                            "Setelah Shalat Fardhu : Zikir Harian"
+                        ]
+                    },
+                    "isi": [
+                        {
+                            "tipe": "isi",
+                            "judul": "Jumlah Raka'at",
+                            "keterangan": {
+                                "awal": [
+                                    "2 Raka'at"
+                                ]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Raka'at Pertama",
+                            "keterangan": {
+                                "awal": [
+                                    "Surat Ad Dhuha"
+                                ]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Raka'at Kedua",
+                            "keterangan": {
+                                "awal": [
+                                    "Surat Al Insyirah"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

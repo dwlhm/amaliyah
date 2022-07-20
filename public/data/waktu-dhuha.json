@@ -1,0 +1,87 @@
+{
+    "judul": "Waktu Dhuha",
+    "deskripsi": "Panduan Amaliyah saat Waktu isyraq",
+    "topik": "Sholat",
+    "tags": ["amaliyah harian", "sholat"],
+    "keterangan": {
+        "awal": ["Pilihan Waktu : Jam 07.01"]
+    },
+    "isi": [
+        {
+            "tipe": "bernomor",
+            "isi": [
+                {
+                    "tipe": "radio",
+                    "judul": "Shalat Dhuha",
+                    "isi": [
+                        {
+                            "tipe": "isi",
+                            "judul": "Niat Shalat",
+                            "arab": ["اُصَلِّي سُنَّةَ الضُّحَى اَرْبَعَ رَكَعَاتٍ لِلّٰهِ تَعَالٰى"],
+                            "latin": ["Ushollii sunnatad dhuha arba'a rok'ataini lillaahi ta'alaa"],
+                            "indo": ["Saya niat sholat sunnah Dhuha empat roka'at karena Alloh Ta'ala"]
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Jumlah Raka'at",
+                            "keterangan": {
+                                "awal": ["8 Raka'at dengan 2 kali salam tanpa Tasyahud Awal"]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Shalat 4 Raka'at yang Pertama",
+                            "keterangan": {
+                                "awal": [
+                                    "Raka'at 1 (Surat Asy Syamsi)",
+                                    "Raka'at 2 (Surat Al Lail)",
+                                    "Raka'at 3 (Surat Adh Dhuha)",
+                                    "Raka'at 4 (Surat Al Insyirah)"
+                                ]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Shalat 4 Raka'at yang Kedua",
+                            "keterangan": {
+                                "awal": [
+                                    "Raka'at 1 (Surat Adh Dhuha)",
+                                    "Raka'at 2 (Surat Al Insyirah)",
+                                    "Raka'at 3 (Surat Al Kaafirun)",
+                                    "Raka'at 4 (Surat Al Ikhlas)"
+                                ]
+                            }
+                        }
+                    ]  
+                },
+                {
+                    "tipe": "radio",
+                    "judul": "Shalat Kifaratul Baul (dengan posisi duduk)",
+                    "isi": [
+                        {
+                            "tipe": "isi",
+                            "judul": "Niat Shalat",
+                            "arab": ["اُصَلِّي سُنَّةً لِكَفَّارَةِ الْبَوْلِ رَكْعَتَيْنِ لِلّٰهِ تَعَالٰى"],
+                            "latin": ["Ushollii sunnatan likaffaaratil baul rak'ataini lillaahi ta'alaa"],
+                            "indo": ["Saya niat sholat sunnah Kifarotul Baul dua roka'at karena Alloh Ta'ala"]
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Jumlah Raka'at",
+                            "keterangan": {
+                                "awal": ["2 Raka'at"]
+                            }
+                        },
+                        {
+                            "tipe": "isi",
+                            "judul": "Bacaan Shalat",
+                            "keterangan": {
+                                "awal": ["Setiap Raka'at membaca Surat Al Kautsar (7x)."]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
