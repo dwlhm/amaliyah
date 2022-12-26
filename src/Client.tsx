@@ -1,10 +1,14 @@
 import type { Component } from "solid-js"
+import { createSignal } from "solid-js"
 
-function Client() : Component {
+const Client : Component = () => {
+    
+    const [ count, setCount ] = createSignal(0)
+    
     return(
-        <div>
-            <p>Hai</p>
-        </div>
+        <button onclick={() => setCount(c => c + 1)}>
+            {count()}
+        </button>
     )
 }
 

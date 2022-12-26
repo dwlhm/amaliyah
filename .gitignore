@@ -2,3 +2,6 @@
 **/node_modules/**
 _node_modules
 .pnp.cjs
+
+# Build directory
+functions

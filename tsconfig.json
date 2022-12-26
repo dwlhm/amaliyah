@@ -1,17 +1,21 @@
 {
   "compilerOptions": {
-    "target": "ES5",                          // Versi EcmaScript yg disupport kebanyakan browser modern.
+    "target": "ESNext",                          // Versi EcmaScript yg disupport kebanyakan browser modern.
     "jsx": "preserve",                        // setup buat SolidJS
     "jsxImportSource": "solid-js",            // setup buat SolidJS
-    "module": "ESNext",                       // Versi EcmaScript terbaru. 
-    "rootDir": "./src",                       // Specify the root folder within your source files. 
-    "moduleResolution": "node",               // Specify how TypeScript looks up a file from a given module specifier.
-    "outDir": "./functions",                  // Specify an output folder for all emitted files. 
+    "module": "ESNext",                       // Specify the root folder within your source files. 
+    "moduleResolution": "node",                   // Specify an output folder for all emitted files. 
     "esModuleInterop": true,                  // Emit additional JavaScript to ease support for importing CommonJS modules. This enables 'allowSyntheticDefaultImports' for type compatibility.
     "forceConsistentCasingInFileNames": true, // Ensure that casing is correct in imports.
     "strict": true,                           // Enable all strict type-checking options.
     "noImplicitAny": true,                    // Jangan ada :any diantara kita(kode).
-    "skipLibCheck": true                      // Skip type checking all .d.ts files.
+    "skipLibCheck": true,                    // Skip type checking all .d.ts files.
+    "noEmit": true,
+    "types": [ 
+      "vite/client", 
+      "vite-plugin-pwa",
+      "vite-plugin-pwa/client" 
+    ]
   }
 }
 
