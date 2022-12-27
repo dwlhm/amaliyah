@@ -42,7 +42,9 @@ const pwaOptions: Partial<VitePWAOptions> = {
 
 export default defineConfig({
     plugins: [ 
-        solidPlugin(),
+        solidPlugin({
+            ssr: true
+        }),
         VitePWA(pwaOptions)
     ],
     server: {

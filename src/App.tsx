@@ -1,7 +1,7 @@
 import type { Component } from "solid-js"
 import { createSignal } from "solid-js"
 
-const Client : Component = () => {
+const App : Component = () => {
     
     const [ count, setCount ] = createSignal(0)
     
@@ -12,7 +12,7 @@ const Client : Component = () => {
     )
 }
 
-export default Client
+export default App
 
 /* =====
   # references
