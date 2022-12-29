@@ -1,6 +1,7 @@
 import { generateHydrationScript, renderToString } from "solid-js/web"
 
 import App from "./App"
+import "./index.css"
 
 export function render() {
     const body = renderToString(() => <App />)
