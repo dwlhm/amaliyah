@@ -1,10 +1,11 @@
-import { generateHydrationScript, renderToString } from "solid-js/web"
+import { generateHydrationScript, renderToStream } from "solid-js/web"
+import { Router } from "@solidjs/router"
 
 import App from "./App"
 import "./index.css"
 
 export function render() {
-    const body = renderToString(() => <App />)
+    const body = renderToStream(() => <App />)
     const hydration = generateHydrationScript()
 
     return {

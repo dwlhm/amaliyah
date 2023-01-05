@@ -7,3 +7,4 @@ node_modules
 # Build directory
 functions
 dev-dist
+public/index.css

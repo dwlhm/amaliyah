@@ -1,14 +1,19 @@
-import type { Component } from "solid-js"
+import { Component, lazy } from "solid-js"
 import { createSignal } from "solid-js"
+import { Router, Routes, Route } from "@solidjs/router"
+
+const Hi = lazy(() => import("./pages/Hi"))
+const Home = lazy(() => import("./pages/Home"))
 
 const App : Component = () => {
     
-    const [ count, setCount ] = createSignal(0)
-    
     return(
-        <button onclick={() => setCount(c => c + 1)}>
-            {count()}
-        </button>
+    <Router>
+        <Routes>
+            <Route path="/hi" component={Hi} />
+            <Route path="/" component={Home} />
+        </Routes>
+    </Router>
     )
 }
 

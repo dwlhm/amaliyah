@@ -31,12 +31,12 @@ const pwaOptions: Partial<VitePWAOptions> = {
     injectRegister: "script",
     registerType: "autoUpdate",
     devOptions: {
-        enabled: true
+        enabled: false
     },
     workbox: {
         globPatterns: ['**/*.{tsx,ts,js,css,html,ico,png,svg}'],
         clientsClaim: true,
-        skipWaiting: true
+        skipWaiting: true,
     }
 }
 

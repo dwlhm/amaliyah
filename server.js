@@ -13,7 +13,7 @@ export async function createServer(
     const resolve = (p) => path.resolve((__dirname).toString(), p)
 
     const indexProd = isProd
-        ? fs.readFileSync(resolve("/functions/client/index.html"), "utf-8")
+        ? fs.readFileSync(resolve("./functions/client/index.html"), "utf-8")
         : ""
 
     const app = express()
