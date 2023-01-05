@@ -8,3 +8,4 @@ node_modules
 functions
 dev-dist
 public/index.css
+storybook-static
