@@ -1,34 +1,23 @@
-## Usage
+## Hello
 
-Those templates dependencies are maintained via [pnpm](https://pnpm.io) via `pnpm up -Lri`.
+Disini adalah tempat saya menyimpan baris kode untuk web application [amaliyah.dwlhm.space](amaliyah.dwlhm.space).
+Web Amaliyah disusun menggunakan javascript dengan framework solidjs serta pemanfaatan teknologi PWA dan LocalStorage.
 
-This is the reason you see a `pnpm-lock.yaml`. That being said, any package manager will work. This file can be safely be removed once you clone a template.
+## Panduan memulai
+
+Untuk pertama kali, lakukan instalasi dependensi yang diperlukan dengan baris perintah berikut:
 
 ```bash
 $ npm install # or pnpm install or yarn install
 ```
 
-### Learn more on the [Solid Website](https://solidjs.com) and come chat with us on our [Discord](https://discord.com/invite/solidjs)
+Setelah semua dependensi terinstall, anda bisa menjalankan sistem dengan baris perintah berikut:
+```bash
+$ pnpm start
+```
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm dev` or `npm start`
-
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br>
-
-### `npm run build`
-
-Builds the app for production to the `dist` folder.<br>
-It correctly bundles Solid in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+Baris perintah tersebut akan menjalankan sistem dalam mode development dengan akses url pada [http://localhost:3000](http://localhost:3000).
 
 ## Deployment
 
-You can deploy the `dist` folder to any static host provider (netlify, surge, now, etc.)
+Web application ini dideploy di [Vercel](vercel.com).
