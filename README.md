@@ -1,6 +1,6 @@
 ## Hello
 
-Disini adalah tempat saya menyimpan baris kode untuk web application [amaliyah.dwlhm.space]([amaliyah.dwlhm.space](https://amaliyah.dwlhm.space/).
+Disini adalah tempat saya menyimpan baris kode untuk web application [amaliyah.dwlhm.space](https://amaliyah.dwlhm.space/).
 Web Amaliyah disusun menggunakan javascript dengan framework solidjs serta pemanfaatan teknologi PWA dan LocalStorage.
 
 ## Panduan memulai
@@ -20,4 +20,4 @@ Baris perintah tersebut akan menjalankan sistem dalam mode development dengan ak
 
 ## Deployment
 
-Web application ini dideploy di [Vercel]([vercel.com](https://vercel.com).
+Web application ini dideploy di [Vercel](https://vercel.com).
