@@ -8,7 +8,7 @@ Web Amaliyah disusun menggunakan javascript dengan framework solidjs serta peman
 Untuk pertama kali, lakukan instalasi dependensi yang diperlukan dengan baris perintah berikut:
 
 ```bash
-$ npm install # or pnpm install or yarn install
+$ pnpm install # or npm install or yarn install
 ```
 
 Setelah semua dependensi terinstall, anda bisa menjalankan sistem dengan baris perintah berikut:
